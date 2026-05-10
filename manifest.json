@@ -1,0 +1,12 @@
+{
+  "display_name": "📱 PhoneChat — Mobile UI",
+  "name": "phone-chat",
+  "version": "1.0.0",
+  "description": "แอพมือถือสไตล์ iPhone ใน SillyTavern — แชท โทร โน้ต สติกเกอร์ และอื่นๆ",
+  "author": "Custom Extension",
+  "js": "index.js",
+  "css": "style.css",
+  "homepage": "",
+  "tags": ["chat", "ui", "mobile"],
+  "requires": []
+}
