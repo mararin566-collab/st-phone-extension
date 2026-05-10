@@ -1,0 +1,11 @@
+{
+  "display_name": "iPhone Simulator",
+  "loading_order": 9,
+  "version": "1.0.0",
+  "js": "index.js",
+  "css": "style.css",
+  "author": "SillyTavern-iPhone",
+  "homePage": "",
+  "requires": [],
+  "auto_update": true
+}
