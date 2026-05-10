@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "js": "index.js",
   "css": "style.css",
+  "module": true,
   "author": "SillyTavern-iPhone",
   "homePage": "",
   "requires": [],
